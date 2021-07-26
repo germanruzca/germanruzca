@@ -1,4 +1,4 @@
-### Hi there 👋, my name is German Ruiz 🧑🏻‍💻.
+# Hi there 👋, my name is German Ruiz 🧑🏻‍💻.
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
