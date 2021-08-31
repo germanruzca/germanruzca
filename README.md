@@ -6,7 +6,7 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 - Web Development.
 - Data Science.
 <p align="right">
-  <img src="me.svg" align="right" height="400" />
+  <img src="me.svg" align="right" height="250" />
 </p>
 
 ## 🔍 Find me on:
