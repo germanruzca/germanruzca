@@ -7,7 +7,9 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 - Data Science.
 ## 🔍 Find me on: 
 - 🐦[Twitter](https://twitter.com/germanruzca "German's Twitter")
-- 📷[Instagram](https://www.instagram.com/germanruzca/ "German's Instagram")
+- 📷[Instagram](https://www.instagram.com/germanruzca/ "German's Instagram") <a href="https://www.instagram.com/destructive.dev/">
+  <img align="left" alt="instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/>
+</a>
 - 🤝[LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
 
 You can contact me by email at germanruzca@gmail.com
