@@ -11,3 +11,4 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 - 🤝[LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
 
 You can contact me by email at germanruzca@gmail.com
+![visitors](https://visitor-badge.glitch.me/badge?page_id=germanruzca.germanruzca)
