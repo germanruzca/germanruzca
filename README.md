@@ -6,10 +6,14 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 - Web Development.
 - Data Science.
 ## 🔍 Find me on: 
-- 🐦[Twitter](https://twitter.com/germanruzca "German's Twitter")
-- 📷[Instagram](https://www.instagram.com/germanruzca/ "German's Instagram") <a href="https://www.instagram.com/destructive.dev/">
+- <a href="https://www.instagram.com/germanruzca/" target="_blank">
   <img align="center" alt="instagram" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png"/>
 </a>
-- 🤝[LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
+- <a href="https://www.linkedin.com/in/germanruzca/" target="_blank">
+  <img align="center" alt="linkedin" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+</a>
+<a href="https://twitter.com/germanruzca" target="_blank">
+  <img align="center" alt="twitter" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png"/>
+</a>
 
 You can contact me by email at germanruzca@gmail.com
