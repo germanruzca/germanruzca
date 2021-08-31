@@ -6,6 +6,9 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 - Web Development.
 - Data Science.
 ## 🔍 Find me on: 
+<p align="right">
+  <img src="undraw_feeling_proud_qne1.svg" align="right" height="150" />
+</p>
 - 🐦[Twitter](https://twitter.com/germanruzca "German's Twitter")
 - 📷[Instagram](https://www.instagram.com/germanruzca/ "German's Instagram")
 - 🤝[LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
