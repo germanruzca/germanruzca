@@ -4,10 +4,12 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 
 ## ✍🏼 What I like:
 - Web Development.
-- Data Science.
 <p align="right">
   <img src="me.svg" align="right" height="250" />
 </p>
+
+- Data Science.
+
 
 ## 🔍 Find me on:
 
