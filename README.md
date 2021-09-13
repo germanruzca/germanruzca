@@ -3,7 +3,7 @@
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
 
-## ✍🏼 What I like:
+## ✍🏼 What I do:
 - Web Development.
 <p align="right">
   <img src="me.svg" align="right" height="250" />
