@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is German Ruiz 🧑🏻‍💻.
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
-
+https://komarev.com/ghpvc/?username=germanruzca&style=flat-square
 
 ## ✍🏼 What I do:
 - Web Development.
