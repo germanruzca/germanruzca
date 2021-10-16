@@ -2,8 +2,6 @@
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
-![](https://komarev.com/ghpvc/?username=germanruzca&style=flat-square)
-
 ## ✍🏼 What I do and learn:
 - Web Development.
 <p align="right">
