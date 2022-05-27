@@ -8,7 +8,6 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
   <img src="me.svg" align="right" height="250" />
 </p>
 
-- Data Science.
 
 
 ## 🔍 Find me on:
