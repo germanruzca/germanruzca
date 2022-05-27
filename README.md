@@ -2,8 +2,11 @@
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
-## ✍🏼 What I do and learn:
-- Web Development.
+## ✍🏼 What I do:
+Software development.
+- JS, ReactJS, nodeJS
+- Ruby, Ruby On Rails
+- PostgresSQL, GrapghQL, REST.
 <p align="right">
   <img src="me.svg" align="right" height="250" />
 </p>
