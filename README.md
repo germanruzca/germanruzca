@@ -22,9 +22,9 @@ Software development.
 
 ## 🔍 Find me on:
 
-- 🐦[Twitter](https://twitter.com/germanruzca "German's Twitter")
-- 📷[Instagram](https://www.instagram.com/germanruzca/ "German's Instagram")
-- 🤝[LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
-- 💻[Web Page](https://www.germanruzca.social/ "German's web page")
+- 🐦 [Twitter](https://twitter.com/germanruzca "German's Twitter")
+- 📷 [Instagram](https://www.instagram.com/germanruzca/ "German's Instagram")
+- 🤝 [LinkedIn](https://www.linkedin.com/in/germanruzca/ "German's LinkedIn")
+- 💻 [Web Page](https://www.germanruzca.social/ "German's web page")
 
 You can contact me by email at germanruzca@gmail.com to talk or me.germanrc@gmail.com to collaborate.
