@@ -8,7 +8,7 @@ Software development.
 - Ruby, Ruby On Rails
 - PostgresSQL, GraphQL, REST.
 
-## What I'm learning:
+## ✍🏼 What I'm learning:
 - Testing.
 - Design Patterns.
 - Data Structures.
