@@ -1,15 +1,11 @@
 # Hi there there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm German Ruiz 🧑🏻‍💻.
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
-<p align="right">
-  <img src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/200w.webp" align="right" height="300" />
-</p>
-
 
 ## 🧑🏻‍💻 What I do:
 Software development.
-- JS, ReactJS, nodeJS
-- Ruby, Ruby On Rails
+- JS, ReactJS, nodeJS <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30px" height="30px">
+- Ruby, Ruby On Rails <img src="https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
 - PostgresSQL, GraphQL, REST.
 
 ## ✍🏼 What I'm learning:
@@ -18,6 +14,9 @@ Software development.
 - Data Structures.
 - Software Design.
 
+<p align="right">
+  <img src="me.svg" align="right" height="250" />
+</p>
 
 
 
@@ -30,4 +29,4 @@ Software development.
 
 You can contact me by email at germanruzca@gmail.com to talk or me.germanrc@gmail.com to collaborate.
 
-<img src="https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
