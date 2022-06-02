@@ -15,7 +15,7 @@ Software development.
 - Software Design.
 
 <p align="right">
-  <img src="me.svg" align="right" height="250" />
+  <img src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/200w.webp" align="right" height="250" />
 </p>
 
 
