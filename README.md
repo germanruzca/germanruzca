@@ -6,7 +6,7 @@ I'm a student in Telematics Faculty at Universidad de Colima learning everyday a
 Software development.
 - JS, ReactJS, nodeJS <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30px" height="30px">
 - Ruby, Ruby On Rails <img src="https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
-- PostgresSQL, GraphQL, REST.
+- PostgresSQL, GraphQL, REST. <img src="https://media0.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="30px" height="30px">
 
 ## ✍🏼 What I'm learning:
 - Testing.
