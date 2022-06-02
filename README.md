@@ -3,7 +3,7 @@
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
 <p align="right">
-  <img src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy_s.gif" align="right" height="250" />
+  <img src="https://media2.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" align="right" height="300" />
 </p>
 
 
