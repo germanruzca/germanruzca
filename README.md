@@ -1,4 +1,4 @@
-# Hi there <iframe src="https://giphy.com/embed/4vzPXQbOxaOr1ZavUt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-4vzPXQbOxaOr1ZavUt">via GIPHY</a></p>, I'm German Ruiz 🧑🏻‍💻.
+# Hi there there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm German Ruiz 🧑🏻‍💻.
 
 I'm a student in Telematics Faculty at Universidad de Colima learning everyday about the technologies!
 
