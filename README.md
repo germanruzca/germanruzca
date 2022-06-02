@@ -28,3 +28,5 @@ Software development.
 - 💻 [Web Page](https://www.germanruzca.social/ "German's web page")
 
 You can contact me by email at germanruzca@gmail.com to talk or me.germanrc@gmail.com to collaborate.
+
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
