@@ -13,12 +13,6 @@ Software development.
 - Ruby, Ruby On Rails <img src="https://media3.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="30px" height="30px">
 - PostgresSQL, GraphQL, REST. <img src="https://media0.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="30px" height="30px">
 
-## ✍🏼 What I'm learning:
-- Testing.
-- Design Patterns.
-- Data Structures.
-- Software Design.
-
 
 ## 🔍 Find me on:
 
